@@ -19,7 +19,6 @@ complaint_dimension AS (
             'descriptor',
             'complaint_category'
         ]) }} AS complaint_type_key,
-
         complaint_type,
         descriptor,
         complaint_category
